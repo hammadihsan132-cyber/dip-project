@@ -82,7 +82,8 @@ The pipeline outputs a side-by-side comparison of:
 - **Fused Image** — Combines the sharpest regions from both
 
 > _Sample result image can be added here._  
-> ![Result Placeholder](assets/result_placeholder.png)
+> <img width="512" height="513" alt="image" src="https://github.com/user-attachments/assets/ffd1b7ef-9ac2-4850-9aeb-066c1a857aa4" />
+)
 
 ---
 
@@ -108,6 +109,8 @@ multi-focus-image-fusion/
 ```
 ## Inut Images
 <img width="520" height="520" alt="lytro-14-B" src="https://github.com/user-attachments/assets/baf982a7-7889-4a0d-b9b6-dc2807a6a4f8" />
+<img width="520" height="520" alt="lytro-14-B" src="https://github.com/user-attachments/assets/ddf658b3-2654-4432-9984-b4f6ba7efb89" />
+
 
 ---
 ## Output Image
@@ -117,6 +120,7 @@ multi-focus-image-fusion/
 
 ##  Author
 
-**Your Name**  
-BS Computer Science | Digital Image Processing  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)****
+***HAMMAD IHSAN*  
+Feel free to ask about the project
+hammad.ihsan132@gmail.com
+
